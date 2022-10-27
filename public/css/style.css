@@ -1,6 +1,11 @@
 @import url(./cssLib/bootstrap.min.css);
 @import url(./cssLib/fontawesome.css);
 
-body {
-    background-color: bisque;
+.full-screen-spinner {
+    inset: 0;
+    position: absolute;
+}
+.spinner-border {
+    height: 100px;
+    width: 100px;
 }
